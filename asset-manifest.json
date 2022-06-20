@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/TRELLO-/static/css/main.6631e4fc.chunk.css",
+    "main.js": "/TRELLO-/static/js/main.36dcf97d.chunk.js",
+    "main.js.map": "/TRELLO-/static/js/main.36dcf97d.chunk.js.map",
+    "runtime-main.js": "/TRELLO-/static/js/runtime-main.b2788309.js",
+    "runtime-main.js.map": "/TRELLO-/static/js/runtime-main.b2788309.js.map",
+    "static/js/2.7c8e814f.chunk.js": "/TRELLO-/static/js/2.7c8e814f.chunk.js",
+    "static/js/2.7c8e814f.chunk.js.map": "/TRELLO-/static/js/2.7c8e814f.chunk.js.map",
+    "index.html": "/TRELLO-/index.html",
+    "static/css/main.6631e4fc.chunk.css.map": "/TRELLO-/static/css/main.6631e4fc.chunk.css.map",
+    "static/js/2.7c8e814f.chunk.js.LICENSE.txt": "/TRELLO-/static/js/2.7c8e814f.chunk.js.LICENSE.txt",
+    "static/media/menu.a4872a60.png": "/TRELLO-/static/media/menu.a4872a60.png",
+    "static/media/index.css": "/TRELLO-/static/media/sea.dbba2e6f.jpg",
+    "static/media/search.a27091ef.png": "/TRELLO-/static/media/search.a27091ef.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b2788309.js",
+    "static/js/2.7c8e814f.chunk.js",
+    "static/css/main.6631e4fc.chunk.css",
+    "static/js/main.36dcf97d.chunk.js"
+  ]
+}
