@@ -1,0 +1,11 @@
+/* .app {
+    background-image: url('./UI/sea.jpg') ;
+    
+} */
+
+.forSpinner {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+}
